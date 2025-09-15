@@ -34,7 +34,7 @@
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px"/> Editing & Creative Tools</h3>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/45e3b0b8-3165-4cdf-9cac-91109addeb13" alt="Adobe Photoshop" width="42"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Audacity_Logo.svg" alt="Audacity" width="42"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Audacity_Logo.svg" alt="Audacity" width="42"/>
   <img src="https://github.com/user-attachments/assets/756f08f9-b4b8-47d3-ac12-3e187a162c57" alt="Adobe Premiere Pro" width="42"/>
 </p>
 
