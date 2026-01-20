@@ -49,7 +49,8 @@
 
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"/> Known IDEs</h3>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d793b036-c9b0-4c31-996f-e5411c2c64a1" alt="Visual Studio Code" width="42"/>
+  <img src="https://github.com/user-attachments/assets/d820c3eb-f527-4f57-8276-a33969fd5164" alt="Antigravity" width="42"/>
+   <img src="https://github.com/user-attachments/assets/d793b036-c9b0-4c31-996f-e5411c2c64a1" alt="Visual Studio Code" width="42"/>
   <img src="https://github.com/user-attachments/assets/bf612798-73c2-40ca-8b7c-030b84840f3d" alt="PyCharm" width="42"/>
   <img src="https://github.com/user-attachments/assets/d39df8a6-84fa-4314-8086-12baae56b904" alt="Eclipse" width="42"/>
   <img src="https://github.com/user-attachments/assets/4a44968f-8a21-4d57-a49e-41aa8ff82d20" alt="Sublime Text" width="42"/>
