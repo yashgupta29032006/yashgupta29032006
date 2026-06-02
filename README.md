@@ -10,7 +10,7 @@
 
 <div align="center">
   <p style="max-width: 700px; text-align: center;">
-    I'm a 19-year-old coder, future AI engineer, and a student at Newton School of Technology (B.Tech in Computer Science, AI Specialization).  
+    I'm a 20-year-old coder, future AI engineer, and a student at Newton School of Technology (B.Tech in Computer Science, AI Specialization).  
     <br><br>
     My expertise lies in <b>Python automation</b>, <b>AI projects</b>, <b>Telethon-based bots</b>, <b>GUI automation</b>, and <b>OpenCV</b>.  
     I also code in <b>C++</b>, <b>Java</b>, and <b>HTML</b>, and love creating innovative AI tools that feel like Jarvis from Iron Man.  
