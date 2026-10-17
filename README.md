@@ -22,9 +22,20 @@ Currently developing **Rudra 3.0** (an agentic personal assistant and automation
 
 ### Featured Engineering Systems
 
-#### 01. Rudra 3.0 — Personal AI Assistant & Agentic Automation
-`Creator & Lead Developer` • *Telegram Protocol Automation & Agent Architecture*  
-**Links:** [Rudra App Repository](https://github.com/yashgupta29032006/Rudra_app) • [Architecture Case Study](project-showcase/projects/rudra.md)
+<table>
+  <tr>
+    <td width="92" align="center" valign="middle">
+      <img src="assets/rudra-logo.png" alt="Rudra 3.0 Logo" width="76" />
+    </td>
+    <td>
+      <h3 style="margin: 0;">01. Rudra 3.0 — Personal AI Assistant &amp; Agentic Automation</h3>
+      <p style="margin: 4px 0 0 0;">
+        <code>Creator &amp; Lead Developer</code> • <i>Telegram MTProto Automation &amp; Agent Planning Loop</i><br />
+        <b>Links:</b> <a href="https://github.com/yashgupta29032006/Rudra_app">Rudra App Repository</a> • <a href="project-showcase/projects/rudra.md">Architecture Case Study</a> • <img src="https://img.shields.io/badge/Core-Private_Engine-334155?style=flat-square" alt="Private Engine" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 - **Problem & Ambient Access:** Developer workflows and research tasks are fragmented across disparate apps; web chatbots lack ambient system access, persistent cross-turn state, and secure execution tools.
 - **MTProto Protocol Automation:** Architected an asynchronous Telegram MTProto client via Telethon and Python `asyncio`, enabling natural language task execution and ambient notifications across desktop and mobile.
@@ -33,9 +44,20 @@ Currently developing **Rudra 3.0** (an agentic personal assistant and automation
 
 ---
 
-#### 02. Sentinel AI — Intelligent Video Analytics
-`Lead AI Engineer` • *Privacy-Preserving Edge Computer Vision Model* • **Affiliation:** Vantage (`VantageLLC`)  
-**Links:** [Technical Case Study](project-showcase/projects/sentinel-ai.md) • *Source Code Confidential*
+<table>
+  <tr>
+    <td width="92" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/YashDoesCode/YashDoesCode/main/invision-logo.png" alt="Sentinel AI / InvisionAI Logo" width="76" />
+    </td>
+    <td>
+      <h3 style="margin: 0;">02. Sentinel AI — Intelligent Video Analytics</h3>
+      <p style="margin: 4px 0 0 0;">
+        <code>Lead AI Engineer</code> • <i>Privacy-Preserving Edge Computer Vision Model</i> • <b>Affiliation:</b> Vantage (<code>VantageLLC</code>)<br />
+        <b>Links:</b> <a href="project-showcase/projects/sentinel-ai.md">Technical Case Study</a> • <img src="https://img.shields.io/badge/Source-Confidential-dc2626?style=flat-square" alt="Source Confidential" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 - **Problem & Edge Constraints:** Streaming raw surveillance footage to cloud endpoints induces severe network congestion, transmission latency, and civil privacy vulnerabilities.
 - **Edge Vision Intelligence:** Developed Sentinel AI as the core intelligent vision perception model within InvisionAI at Vantage, executing spatial-temporal feature extraction and anomaly detection directly on edge nodes.
@@ -44,9 +66,20 @@ Currently developing **Rudra 3.0** (an agentic personal assistant and automation
 
 ---
 
-#### 03. MediBridge AI — AI-Powered Healthcare Discovery & Navigation
-`Founder & Lead Architect` • *Demographically Adaptive Healthcare Navigation Platform*  
-**Links:** [Live Platform (medibridgeai.in)](https://medibridgeai.in) • [Case Study](project-showcase/projects/medibridge-ai.md)
+<table>
+  <tr>
+    <td width="92" align="center" valign="middle">
+      <img src="assets/medibridge-logo.png" alt="MediBridge AI Logo" width="76" />
+    </td>
+    <td>
+      <h3 style="margin: 0;">03. MediBridge AI — AI-Powered Healthcare Discovery &amp; Navigation</h3>
+      <p style="margin: 4px 0 0 0;">
+        <code>Founder &amp; Lead Architect</code> • <i>Demographically Adaptive Healthcare Navigation Platform</i><br />
+        <b>Links:</b> <a href="https://medibridgeai.in">Live Platform (medibridgeai.in)</a> • <a href="project-showcase/projects/medibridge-ai.md">Technical Case Study</a> • <img src="https://img.shields.io/badge/Deployment-Live_Production-0284c7?style=flat-square" alt="Live Production" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 - **Problem & Market Disconnect:** Healthcare search across India suffers from predatory advertising bias, opaque consultation costs, and dense digital interfaces that exclude senior citizens and non-technical users.
 - **Clinical Specialty Routing:** Engineered an NLP matching engine that maps conversational patient symptom queries directly to relevant medical specialties, clinical urgency levels, and transparent fee schedules.
@@ -55,9 +88,20 @@ Currently developing **Rudra 3.0** (an agentic personal assistant and automation
 
 ---
 
-#### 04. EchoVault — Personal AI Memory & Agent System
-`Systems & Storage Architect` • *Local-First Agent Memory Store & Context Persistence*  
-**Links:** [Architecture Case Study](project-showcase/projects/echovault.md) • *Source Code Private*
+<table>
+  <tr>
+    <td width="92" align="center" valign="middle">
+      <img src="assets/echovault-logo.png" alt="EchoVault Logo" width="76" />
+    </td>
+    <td>
+      <h3 style="margin: 0;">04. EchoVault — Personal AI Memory &amp; Agent System</h3>
+      <p style="margin: 4px 0 0 0;">
+        <code>Systems &amp; Storage Architect</code> • <i>Local-First Agent Memory Store &amp; Context Persistence</i><br />
+        <b>Links:</b> <a href="project-showcase/projects/echovault.md">Architecture Case Study</a> • <img src="https://img.shields.io/badge/Source-Private_Framework-475569?style=flat-square" alt="Private Framework" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 - **Problem & Privacy Exposure:** AI agents lose contextual state across sessions, while commercial cloud vector databases introduce network latency, recurring expenses, and privacy exposure for sensitive data.
 - **Hybrid Local Memory Engine:** Architected a local memory store pairing dense vector embeddings (FAISS) with structured relational storage (SQLAlchemy) for low-latency (<15ms) semantic search and multi-session persistence.
@@ -66,9 +110,20 @@ Currently developing **Rudra 3.0** (an agentic personal assistant and automation
 
 ---
 
-#### 05. RazorGrowth AI — Autonomous Merchant Growth & Policy-Governed Commerce
-`AI Systems Engineer` • *Policy-Governed Commerce & Closed-Loop Experimentation* • **Built for:** Razorpay AI Buildathon 2026  
-**Links:** [GitHub Repository](https://github.com/yashgupta29032006/RazorGrowthAI) • **Status:** 415/415 Automated Tests Passing
+<table>
+  <tr>
+    <td width="92" align="center" valign="middle">
+      <img src="assets/razorgrowth-logo.png" alt="RazorGrowth AI Logo" width="76" />
+    </td>
+    <td>
+      <h3 style="margin: 0;">05. RazorGrowth AI — Autonomous Merchant Growth &amp; Policy Governance</h3>
+      <p style="margin: 4px 0 0 0;">
+        <code>AI Systems Engineer</code> • <i>Policy-Governed Commerce &amp; Closed-Loop Experimentation</i> • <b>Built for:</b> Razorpay AI Buildathon 2026<br />
+        <b>Links:</b> <a href="https://github.com/yashgupta29032006/RazorGrowthAI">GitHub Repository</a> • <img src="https://img.shields.io/badge/Automated_Tests-415%2F415_Passing-10b981?style=flat-square" alt="415/415 Passing" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 - **Problem & Authority Governance:** Commercial AI growth tools operate as unconstrained suggestion engines, generating unverified promotional campaigns without margin safety, budget control, or statistical validity.
 - **Core Authority Invariant:** Enforced the strict architectural rule: *"AI proposes and explains; deterministic code validates and enforces."*
