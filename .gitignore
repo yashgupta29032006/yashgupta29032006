@@ -1,0 +1,3 @@
+# Ignore standalone showcase repository
+project-showcase/
+.DS_Store
