@@ -47,7 +47,7 @@ Currently developing **Rudra 3.0** (an agentic personal assistant and automation
 <table>
   <tr>
     <td width="92" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/YashDoesCode/YashDoesCode/main/invision-logo.png" alt="Sentinel AI / InvisionAI Logo" width="76" />
+      <img src="Favicon.png" alt="Sentinel AI / InvisionAI Logo" width="76" />
     </td>
     <td>
       <h3 style="margin: 0;">02. Sentinel AI — Intelligent Video Analytics</h3>
